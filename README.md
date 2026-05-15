@@ -118,5 +118,5 @@ Recommended next step:
 - add more integration and controller-level tests
 - add Swagger UI and a shared Postman collection
 
-## 9. Author - Ritesh Gupta
-- Ritesh Gupta
+## 9. Author - Vaibhav Sharma
+- Vaibhav Sharma
